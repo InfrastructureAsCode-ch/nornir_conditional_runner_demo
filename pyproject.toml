@@ -17,7 +17,7 @@ typer = "^0.14.0"
 
 
 [tool.poetry.group.dev.dependencies]
-black = "^24.10.0"
+black = "^26.3.1"
 mypy = "^1.13.0"
 pytest = "^8.3.3"
 
